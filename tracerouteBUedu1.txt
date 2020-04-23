@@ -1,0 +1,21 @@
+Last login: Fri Apr  3 14:39:07 on ttys000
+Wireshark: Permission denied
+austinhall@Austins-MacBook-Air ~ % traceroute bu.edu
+traceroute to bu.edu (128.197.236.4), 64 hops max, 52 byte packets
+ 1  10.0.0.1 (10.0.0.1)  9.561 ms  4.195 ms  3.891 ms
+ 2  100.76.169.1 (100.76.169.1)  21.836 ms  14.970 ms  49.587 ms
+ 3  po-302-1209-rur01.spokane.wa.seattle.comcast.net (68.86.113.41)  14.552 ms  17.456 ms  13.474 ms
+ 4  po-2-rur02.spokane.wa.seattle.comcast.net (69.139.160.126)  12.704 ms  12.474 ms  12.975 ms
+ 5  be-37-ar01.seattle.wa.seattle.comcast.net (68.86.96.5)  19.318 ms  20.763 ms  26.666 ms
+ 6  be-33650-cr01.seattle.wa.ibone.comcast.net (68.86.93.165)  35.339 ms  30.461 ms  25.041 ms
+ 7  be-10820-cr01.champa.co.ibone.comcast.net (68.86.84.206)  56.631 ms  89.866 ms  56.907 ms
+ 8  be-12021-cr02.1601milehigh.co.ibone.comcast.net (68.86.84.226)  55.607 ms  57.575 ms  56.631 ms
+ 9  be-10521-cr02.350ecermak.il.ibone.comcast.net (68.86.85.169)  79.753 ms  79.672 ms  79.859 ms
+10  be-7922-ar01.woburn.ma.boston.comcast.net (68.86.91.6)  109.418 ms  105.644 ms  106.091 ms
+11  96.108.70.126 (96.108.70.126)  108.324 ms  108.150 ms  106.516 ms
+12  162.151.149.146 (162.151.149.146)  106.732 ms  107.099 ms  104.876 ms
+13  50.239.146.74 (50.239.146.74)  106.241 ms  104.815 ms  127.623 ms
+14  cumm111-core-aca01-gi2-7-comm595-bdr-gw01-gi1-1.bu.edu (128.197.254.117)  106.197 ms  167.508 ms  110.213 ms
+15  cumm111-dist-aca01-te5-5-comm595-core-aca01-te3-1.bu.edu (128.197.254.166)  263.005 ms  158.422 ms  106.603 ms
+16  bu.edu (128.197.236.4)  108.286 ms  152.331 ms  182.263 ms
+austinhall@Austins-MacBook-Air ~ % 
