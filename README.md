@@ -1,5 +1,4 @@
 # CSCD434-Network-Security
-Assignments related to CSCD 434 Network Security
 This course explores practical topics in network security.
 Topics include policy and mechanism; malicious code; intrusion detection, 
 prevention, response; cryptographic and protocols for privacy and integrity. 
